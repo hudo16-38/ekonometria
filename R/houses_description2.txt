@@ -1,0 +1,7 @@
+dealer 	Category marking who has listed the property
+izby 	Number of Rooms
+rozloha 	Total area of the house in square feet
+resale	Category marking Resale or not
+cena	Price
+
+source: https://www.kaggle.com/datasets/anmolkumar/house-price-prediction-challenge?select=train.csv
